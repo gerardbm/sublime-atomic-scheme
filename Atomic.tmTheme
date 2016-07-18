@@ -2441,7 +2441,7 @@
 	<key>semanticClass</key>
 	<string>theme.atomic</string>
 	<key>comment</key>
-	<string>https:&#x2f;&#x2f;github.com&#x2f;gerardbm&#x2f;Atomic</string>
+	<string>https:&#x2f;&#x2f;github.com&#x2f;gerardbm&#x2f;Sublime-Atomic-Scheme</string>
 	<key>author</key>
 	<string>Gerard Bajona</string>
 </dict>
