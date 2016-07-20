@@ -1,38 +1,36 @@
 # Atomic
 Atomic is a dark color scheme designed to use in Sublime Text. It consists of 16 colors selected procedurally (algorithms) and it's part of a bigger project: [Atomic](https://github.com/gerardbm/Atomic), which includes themes and color schemes for more code editors (NetBeans) and terminal programs (Irssi, Cmus, Zsh and Tmux).
 
-This color scheme is in a different repository instead of the main one because it's easier to install it through the Package Control, and it's a requirement: «Only include one package per repository».
-
-### Color Palette
+## Color Palette
 
 ![Atomic-scheme](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/img/atomic-scheme.png)
 
-### Screenshots
-#### Javascript
+## Screenshots
+#### Javascript:
 
 ![Atomic-js](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-js.png)
 
-#### Python
+#### Python:
 
 ![Atomic-py](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-py.png)
 
-#### Ruby
+#### Ruby:
 
 ![Atomic-rb](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-rb.png)
 
-#### PHP
+#### PHP:
 
 ![Atomic-php](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-php.png)
 
-#### HTML
+#### HTML:
 
 ![Atomic-html](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-html.png)
 
-#### CSS
+#### CSS:
 
 ![Atomic-css](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-css.png)
 
-### Installation
+## Installation
 #### Package Control
 
 1. Make sure you already have Package Control installed.
