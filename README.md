@@ -8,27 +8,27 @@ Atomic is a dark color scheme designed to use in Sublime Text. It consists of 16
 ## Screenshots
 #### Javascript:
 
-![Atomic-js](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-js.png)
+![Atomic-js](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/screenshots/sublime-atomic-js.png)
 
 #### Python:
 
-![Atomic-py](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-py.png)
+![Atomic-py](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/screenshots/sublime-atomic-py.png)
 
 #### Ruby:
 
-![Atomic-rb](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-rb.png)
+![Atomic-rb](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/screenshots/sublime-atomic-rb.png)
 
 #### PHP:
 
-![Atomic-php](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-php.png)
+![Atomic-php](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/screenshots/sublime-atomic-php.png)
 
 #### HTML:
 
-![Atomic-html](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-html.png)
+![Atomic-html](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/screenshots/sublime-atomic-html.png)
 
 #### CSS:
 
-![Atomic-css](https://github.com/gerardbm/Sublime-Atomic-Scheme/blob/master/screenshots/sublime-atomic-css.png)
+![Atomic-css](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/screenshots/sublime-atomic-css.png)
 
 ## Installation
 #### Package Control
