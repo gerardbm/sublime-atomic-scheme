@@ -1,12 +1,14 @@
 # Atomic colors for Sublime Text
-Atomic is a dark color scheme designed to use in Sublime Text. It consists of 16 colors selected procedurally (algorithms) and it's part of a bigger project: [Atomic](https://github.com/gerardbm/Atomic), which includes themes and color schemes for more code editors (NetBeans) and terminal programs (Irssi, Cmus, Zsh and Tmux).
+Atomic is a dark color scheme designed to use in Sublime Text. It consists of 16 colors selected procedurally (algorithms) and it's part of a bigger project: [Atomic](https://github.com/gerardbm/Atomic), which includes themes and color schemes for more code editors (Vim/Neovim, NetBeans), terminals (konsole, xfce4-terminal, gnome-terminal, URxvt) and some terminal programs (Irssi, Cmus, Zsh, Tmux).
 
 ## Color Palette
 
 Dark mode:
+
 ![Atomic-scheme](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/img/main-colors-dark.png)
 
 Night mode:
+
 ![Atomic-scheme](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/img/main-colors-night.png)
 
 ## Screenshots
