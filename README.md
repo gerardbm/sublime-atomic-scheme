@@ -3,7 +3,11 @@ Atomic is a dark color scheme designed to use in Sublime Text. It consists of 16
 
 ## Color Palette
 
-![Atomic-scheme](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/img/atomic-scheme.png)
+Dark mode:
+![Atomic-scheme](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/img/main-colors-dark.png)
+
+Night mode:
+![Atomic-scheme](https://raw.githubusercontent.com/gerardbm/Sublime-Atomic-Scheme/master/img/main-colors-night.png)
 
 ## Screenshots
 #### Javascript:
