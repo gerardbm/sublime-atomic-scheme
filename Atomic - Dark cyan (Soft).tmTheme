@@ -3,32 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Atomic dark soft</string>
+	<string>Atomic dark cyan (soft)</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#141A1F</string>
+				<string>#121C1C</string>
 				<key>caret</key>
 				<string>#6ECFCF</string>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 				<key>invisibles</key>
-				<string>#141A1F</string>
+				<string>#121C1C</string>
 				<key>lineHighlight</key>
-				<string>#1A2128</string>
+				<string>#172424</string>
 				<key>selection</key>
-				<string>#6B859E</string>
+				<string>#253939</string>
 				<key>selectionBorder</key>
-				<string>#6B859E</string>
-				<key>selectionForeground</key>
-				<string>#A6B5C5</string>
+				<string>#253939</string>
 				<key>findHighlight</key>
 				<string>#C97016</string>
 				<key>findHighlightForeground</key>
-				<string>#141A1F</string>
+				<string>#121C1C</string>
 				<key>bracketsForeground</key>
 				<string>#6ECFCF</string>
 			</dict>
@@ -43,7 +41,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6B859E</string>
+				<string>#5E8F8F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -87,7 +85,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDA55C</string>
+				<string>#EDA55D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -131,7 +129,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#9ACD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -153,7 +151,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A359ED</string>
+				<string>#3890E9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -164,7 +162,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB96FF</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -186,7 +184,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#CB96FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -219,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -298,7 +296,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#6B859E</string>
+				<string>#5E8F8F</string>
 			</dict>
 		</dict>
 
@@ -368,7 +366,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -403,7 +401,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDA55C</string>
+				<string>#EDA55D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -494,7 +492,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -538,7 +536,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDA55C</string>
+				<string>#EDA55D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -549,7 +547,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -573,7 +571,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -617,7 +615,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -674,7 +672,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -696,7 +694,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -795,7 +793,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDA55C</string>
+				<string>#EDA55D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -828,7 +826,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -883,7 +881,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A359ED</string>
+				<string>#3890E9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -894,7 +892,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB96FF</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -905,7 +903,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -927,7 +925,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#A359ED</string>
 			</dict>
 		</dict>
 
@@ -940,7 +938,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A359ED</string>
+				<string>#EC5252</string>
 			</dict>
 		</dict>
 		<dict>
@@ -951,7 +949,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1061,7 +1059,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDA55C</string>
+				<string>#EDA55D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1077,20 +1075,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>PHP: Function-call object</string>
+			<string>PHP: Keyword control</string>
 			<key>scope</key>
-			<string>source.php meta.function-call.object.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#CB96FF</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP: Keyword</string>
-			<key>scope</key>
-			<string>source.php keyword.control.php, source.php support.function.construct.php</string>
+			<string>source.php keyword.control.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -1105,7 +1092,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#9ACD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1123,7 +1110,7 @@
 			<key>name</key>
 			<string>PHP: Storage</string>
 			<key>scope</key>
-			<string>source.php meta.function.php storage.type.function.php, source.php storage.modifier.php, source.php meta.class.php storage.type.class.php, source.php meta.class.php storage.modifier.extends.php</string>
+			<string>source.php storage.modifier.php, source.php meta.class.php storage.type.class.php, source.php meta.class.php storage.modifier.extends.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -1134,11 +1121,23 @@
 			<key>name</key>
 			<string>PHP: Storage type</string>
 			<key>scope</key>
+			<string>source.php meta.function.php storage.type.function.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3890E9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP: Storage type var</string>
+			<key>scope</key>
+			<!-- <string>source.php meta.function.php storage.type.function.php</string> -->
 			<string>source.php storage.type.php</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A359ED</string>
+				<string>#3890E9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1149,7 +1148,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB96FF</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1160,7 +1159,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1193,7 +1192,29 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP: Function-call object</string>
+			<key>scope</key>
+			<string>source.php meta.function-call.object.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CB96FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHP: Function construct</string>
+			<key>scope</key>
+			<string>source.php support.function.construct.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#9ACD68</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1204,7 +1225,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#A359ED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1228,7 +1249,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#6B859E</string>
+				<string>#5E8F8F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1239,7 +1260,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6B859E</string>
+				<string>#5E8F8F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1274,7 +1295,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RoR: Embedded</string>
+			<key>scope</key>
+			<string>text.html.ruby text.html.basic source.ruby.rails.embedded.html punctuation.section.embedded.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EC5252</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1395,7 +1427,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDA55C</string>
+				<string>#EDA55D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1461,7 +1493,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1472,7 +1504,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB96FF</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1483,7 +1515,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1529,7 +1561,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1650,7 +1682,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#A359ED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1672,9 +1704,10 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EDA55C</string>
+				<string>#EDA55D</string>
 			</dict>
 		</dict>
+
 		<!-- C++ -->
 		<dict>
 			<key>name</key>
@@ -1684,7 +1717,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1728,7 +1761,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#A359ED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1772,7 +1805,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A359ED</string>
+				<string>#3890E9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1783,7 +1816,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB96FF</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1840,7 +1873,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1895,7 +1928,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB96FF</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1906,7 +1939,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1961,7 +1994,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#A359ED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2016,7 +2049,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6B859E</string>
+				<string>#5E8F8F</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2029,7 +2062,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#6B859E</string>
+				<string>#5E8F8F</string>
 			</dict>
 		</dict>
 
@@ -2042,7 +2075,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2163,7 +2196,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#A359ED</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2174,7 +2207,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EC5252</string>
+				<string>#CB96FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2273,7 +2306,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB96FF</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2284,7 +2317,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2308,7 +2341,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6B5C5</string>
+				<string>#99BDBD</string>
 			</dict>
 		</dict>
 		<dict>
@@ -2427,7 +2460,7 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>B470FCA3-62EA-433D-AA89-B71E3852CF19</string>
+	<string>A39B37E7-5F2C-4F72-9DA6-F6BB48C48097</string>
 	<key>license</key>
 	<string>
 	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and&#x2f;or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -2439,9 +2472,9 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.atomic</string>
+	<string>theme.atomic_dark_cyan_soft</string>
 	<key>comment</key>
-	<string>https:&#x2f;&#x2f;github.com&#x2f;gerardbm&#x2f;Sublime-Atomic-Scheme</string>
+	<string>https:&#x2f;&#x2f;github.com&#x2f;gerardbm&#x2f;sublime-atomic-scheme</string>
 	<key>author</key>
 	<string>Gerard Bajona</string>
 </dict>
